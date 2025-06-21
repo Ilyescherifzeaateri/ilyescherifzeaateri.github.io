@@ -1,0 +1,22 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ilyes Cherif Zeaateri",
+    "birthDate": "2004-09-25",
+    "birthPlace": "Chlef, Algeria",
+    "jobTitle": "Actor",
+    "description": "Actor",
+    "knowsLanguage": [
+        "English",
+        "Spanish",
+        "Turkish"
+    ],
+    "url": "https://www.linkedin.com/in/ilyes-cherif-zeaateri-22b354317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "sameAs": [
+        "https://www.facebook.com/ilyescherifzeaateri",
+        "https://www.instagram.com/ilyescherifzeaateri?igsh=MXdiazNqdDE1ejQwMA==",
+        "https://x.com/Ilyescherif1779?t=TDfNJgpN3IAW528hWWLHUA&s=09",
+        "https://www.linkedin.com/in/ilyes-cherif-zeaateri-22b354317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "https://pin.it/1O8CX8qbK"
+    ]
+}
